@@ -1,0 +1,42 @@
+2022-09-02T09:26:03+00:00 CRITICAL Uncaught Error: Attempt to assign property "front_or_home" on null in C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php:379
+Stack trace:
+#0 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\template.php(1528): wp_nav_menu_item_post_type_meta_box()
+#1 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\nav-menus.php(945): do_accordion_sections()
+#2 {main}
+  thrown dans C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php à la ligne 379
+
+2022-09-02T09:31:32+00:00 CRITICAL Uncaught Error: Attempt to assign property "front_or_home" on null in C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php:379
+Stack trace:
+#0 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\template.php(1528): wp_nav_menu_item_post_type_meta_box()
+#1 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\nav-menus.php(945): do_accordion_sections()
+#2 {main}
+  thrown dans C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php à la ligne 379
+
+2022-09-02T09:31:58+00:00 CRITICAL Uncaught Error: Attempt to assign property "front_or_home" on null in C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php:379
+Stack trace:
+#0 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\template.php(1528): wp_nav_menu_item_post_type_meta_box()
+#1 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\nav-menus.php(945): do_accordion_sections()
+#2 {main}
+  thrown dans C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php à la ligne 379
+
+2022-09-02T09:32:03+00:00 CRITICAL Uncaught Error: Attempt to assign property "front_or_home" on null in C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php:379
+Stack trace:
+#0 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\template.php(1528): wp_nav_menu_item_post_type_meta_box()
+#1 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\nav-menus.php(945): do_accordion_sections()
+#2 {main}
+  thrown dans C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php à la ligne 379
+
+2022-09-02T09:56:18+00:00 CRITICAL Uncaught Error: Attempt to assign property "front_or_home" on null in C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php:379
+Stack trace:
+#0 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\template.php(1528): wp_nav_menu_item_post_type_meta_box()
+#1 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\nav-menus.php(945): do_accordion_sections()
+#2 {main}
+  thrown dans C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php à la ligne 379
+
+2022-09-02T10:01:09+00:00 CRITICAL Uncaught Error: Attempt to assign property "front_or_home" on null in C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php:379
+Stack trace:
+#0 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\template.php(1528): wp_nav_menu_item_post_type_meta_box()
+#1 C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\nav-menus.php(945): do_accordion_sections()
+#2 {main}
+  thrown dans C:\Users\Stagiaire\Desktop\ECF - Wordpress - Front\wp-admin\includes\nav-menu.php à la ligne 379
+
